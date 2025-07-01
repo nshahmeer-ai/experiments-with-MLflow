@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ZH%20TRADERS/MLOPs%20Series/experiments-with-MLflow/mlruns/130215322803783061/11b3e63c998246b9a079a94d3ab2e5ca/artifacts
+end_time: 1751360660854
+entry_point_name: ''
+experiment_id: '130215322803783061'
+lifecycle_stage: active
+run_id: 11b3e63c998246b9a079a94d3ab2e5ca
+run_name: polite-hawk-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751360660766
+status: 3
+tags: []
+user_id: ZH TRADERS

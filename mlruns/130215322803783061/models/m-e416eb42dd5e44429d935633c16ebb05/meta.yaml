@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ZH%20TRADERS/MLOPs%20Series/experiments-with-MLflow/mlruns/130215322803783061/models/m-e416eb42dd5e44429d935633c16ebb05/artifacts
+creation_timestamp: 1751360662025
+experiment_id: '130215322803783061'
+last_updated_timestamp: 1751360674219
+model_id: m-e416eb42dd5e44429d935633c16ebb05
+model_type: null
+name: random_forest
+source_run_id: 6cd3dea5c17341e69b8a72aee0543bd5
+status: 2
+status_message: null

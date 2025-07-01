@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ZH%20TRADERS/MLOPs%20Series/experiments-with-MLflow/mlruns/130215322803783061/eb50ea49ad27473b8a4ea65952cd1a99/artifacts
+end_time: 1751360661332
+entry_point_name: ''
+experiment_id: '130215322803783061'
+lifecycle_stage: active
+run_id: eb50ea49ad27473b8a4ea65952cd1a99
+run_name: resilient-sow-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751360661254
+status: 3
+tags: []
+user_id: ZH TRADERS

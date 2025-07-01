@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ZH%20TRADERS/MLOPs%20Series/experiments-with-MLflow/mlruns/130215322803783061/e8dff835fa11431aa6fb76d8aeeefcfa/artifacts
+end_time: 1751360660752
+entry_point_name: ''
+experiment_id: '130215322803783061'
+lifecycle_stage: active
+run_id: e8dff835fa11431aa6fb76d8aeeefcfa
+run_name: casual-rook-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751360660660
+status: 3
+tags: []
+user_id: ZH TRADERS

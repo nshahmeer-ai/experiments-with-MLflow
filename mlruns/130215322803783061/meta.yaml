@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ZH%20TRADERS/MLOPs%20Series/experiments-with-MLflow/mlruns/130215322803783061
+creation_time: 1751360651447
+experiment_id: '130215322803783061'
+last_update_time: 1751360651447
+lifecycle_stage: active
+name: breast-cancer-rf-hp
